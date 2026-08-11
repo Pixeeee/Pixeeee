@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, I'm Pixe 👋</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=cyan&size=25&center=true&vCenter=true&width=650&height=100&lines=Full-Stack+Developer;Computer+Technology+Student+%40+SLSU;Co-founder+%40+Kroma+Studio;Building+Fintech+%26+Blockchain+Apps;Always+Learning+New+Stacks+%3C3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=cyan&size=25&center=true&vCenter=true&width=650&height=100&lines=Full-Stack+Developer;Computer+Technology+Graduate;Building+Fintech+%26+Blockchain+Apps;Always+Learning+New+Stacks+%3C3"></a>
 </p>
 
 <p align="center">
@@ -12,11 +12,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 4th-year **Computer Technology** student at Southern Luzon State University, Lucena City, Philippines
+- 🎓 Computer Technology graduate, Southern Luzon State University, Lucena City, Philippines
 - 💻 Freelance **Full-Stack Developer**, building financing, accounting, and fintech platforms
-- 📸 Co-founder of **Kroma Studio** — photography, event coverage & printing
 - 🌱 Currently deep in **agricultural financing systems**, **blockchain (Stellar)**, and modern web stacks
-- ⚡ Fun fact: I juggle enterprise backend architecture on weekdays and photo/video edits for Kroma Studio on weekends
+- ⚡ Fun fact: I enjoy photography and creative media on the side
 
 <br>
 
@@ -78,22 +77,11 @@
 
 <br>
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pixeeee/Pixeeee/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pixeeee/Pixeeee/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pixeeee/Pixeeee/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br><br>
-
 ## 🤝 Let's Connect
 
 <div align="left">
 
 - 📧 Reach out via GitHub for freelance/collab inquiries
-- 📸 Photography & events → **Kroma Studio**
 
 </div>
 
